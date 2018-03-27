@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TypiconOnline.Web", "TypiconOnline.Web\TypiconOnline.Web.csproj", "{696F44C1-5725-4526-89A0-E7DA6A157514}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{696F44C1-5725-4526-89A0-E7DA6A157514}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{696F44C1-5725-4526-89A0-E7DA6A157514}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{696F44C1-5725-4526-89A0-E7DA6A157514}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{696F44C1-5725-4526-89A0-E7DA6A157514}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8F771A2-365A-436E-BD0C-50058DF2D26F}
+	EndGlobalSection
+EndGlobal
